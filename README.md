@@ -1,4 +1,6 @@
 # Bushido
+The Code of Honor that I must abide.
+
 
 ## Egoless Programming
 1. Understand and accept that you will make mistakes.
